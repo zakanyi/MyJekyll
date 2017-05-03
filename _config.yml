@@ -2,6 +2,9 @@
 title: My Jekyll
 timezone: UTC
 collections:
+  coll1:
+    title: Coll1
+    output: true
   posts:
     title: Posts
     output: true
